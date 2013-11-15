@@ -7,3 +7,5 @@
 - може ли - may I?
 - Пак заповядайте - Come back again.
 - много ми е приятно - Nice to meet you
+- Съжалявам - I'm sorry
+- Извинете ме - Excuse me
