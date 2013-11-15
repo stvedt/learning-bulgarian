@@ -1,3 +1,9 @@
 # Manners
 
-Nice to meet you
+- мерси - thank you
+- блогодария - thank you (formal)
+- Много благодаря - you're very welcome
+- моля - please and "you're welcome"
+- може ли - may I?
+- Пак заповядайте - Come back again.
+- много ми е приятно - Nice to meet you
