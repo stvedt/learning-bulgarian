@@ -5,6 +5,8 @@
 - Какво става?
 - Как е? (how is it going?)
 - А ти как си?
+- какво правиш? (What are you doing?)
+- кво прайш (What are you doing? slang)
 
 # Responses
 
