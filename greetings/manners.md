@@ -10,3 +10,4 @@
 - Приятно ми е да се запознаем. - Nice to meet you
 - Съжалявам - I'm sorry
 - Извинете ме - Excuse me
+- да, за съжаление - yes, unfortunately
