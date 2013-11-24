@@ -24,4 +24,4 @@
 - после - then/afterwards
 - още - more/yet/still
 - винаги - always
-- в [hour] часа(часът) е - it is [hour] o'clock
+- в [час] часа е - it is [hour] o'clock
