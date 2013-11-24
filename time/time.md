@@ -5,7 +5,7 @@
 
 
 - часовник - clock
-- чаца - o'clock
+- чаcа - o'clock
 - час - hour
 - минута - minute
 - секунда - second
