@@ -13,6 +13,7 @@
 
 - календар - calendar
 - година - year
+- Догодина - next year
 - седмица - week
 
 ## Time in conversation

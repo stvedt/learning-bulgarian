@@ -11,3 +11,4 @@
 - Съжалявам - I'm sorry
 - Извинете ме - Excuse me
 - да, за съжаление - yes, unfortunately
+- Честито - congratulations
