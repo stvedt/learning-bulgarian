@@ -1,5 +1,6 @@
 # Time
 
+- днес - today
 - вчера - yesterday
 - утре - tomorrow
 
