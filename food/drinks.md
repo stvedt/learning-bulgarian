@@ -1,11 +1,12 @@
 # Drinks
 
  - пия - to drink
+ - вода - water
  - бира - beer
  - вино - wine
- - вода - water
  - кафе - coffee
  - чай - tea
+ - кока-кола or кола - Coca-cola / Cola
 
 ## In conversation
 
